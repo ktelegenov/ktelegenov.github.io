@@ -106,3 +106,14 @@ h3 {
   background: #fff;
   border: 2px solid #1f5297;
 }
+
+.icon-square {
+    width: 3rem;
+    height: 3rem;
+    border-radius: .75rem;
+  }
+
+  .bi {
+    vertical-align: -.125em;
+    fill: currentColor;
+  }
