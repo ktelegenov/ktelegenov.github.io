@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Roboto:wght@100&display=swap');
+
+
 .full-width-section {
     background-image: url('../images/banner.jpg');
     background-size: cover;
@@ -26,4 +29,16 @@
 .arrow-down-button:focus, .arrow-down-button:active {
     outline: none;
     box-shadow: none;
+}
+
+h1 {
+    font-family: 'Nunito', 'Roboto', 'Helvetica', sans-serif;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 40px;
+    font-size: 16pt;
+    
 }
