@@ -26,10 +26,6 @@
     display: inline-block;
 }
 
-.arrow-down-button:focus, .arrow-down-button:active {
-    outline: none;
-    box-shadow: none;
-}
 
 h1 {
     font-family: 'Nunito', 'Roboto', 'Helvetica', sans-serif;
